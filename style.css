@@ -460,8 +460,6 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-}
 
 .btn-rd {
     border-radius: 40px;
@@ -996,8 +994,7 @@ h4 {
     .a-block {
         padding: 0 10px;
     }
-    .btn-dwn {
-    }
+    
     .voffset {
         margin-top: 5px;
     }
